@@ -15,6 +15,8 @@
 * Advanced PC user
 * Familiar with: HTML, CSS, JavaScript, SQL, HTTP, Git
 
+My project [momentum](https://rolling-scopes-school.github.io/aliaksandrdatskevich-JSFEPRESCHOOL2022Q4/momentum/).
+
 ```js
 const time = document.querySelector('.time');
 
@@ -49,7 +51,7 @@ mechanical engineer (2003-2008)
 (Jan. 2018 - present (5 years))
    + vehicle appraiser
 (Sept. 2012 - Jan. 2018 (5 years))
-   + Leading Specialist
+   + leading specialist
 (Aug. 2011 - Sept. 2012 (1 year))
 
    At the beginning of my career in Belgosstrakh, I checked for compliance with the legislation of calculating the amount of harm for transport types of insurance. Today I work in the transport insurance department as the head of the sector and am responsible for the settlement of insured events with VIP clients, the organization of work on handling complaints, monitoring the activities of subordinate separate divisions, advising the heads of departments of subordinate branches and representative offices, making proposals for improving insurance rules, preparing analytical reports, coordinating large payments, making foreign currency payments to non-residents, etc.
