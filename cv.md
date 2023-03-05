@@ -15,7 +15,8 @@
 * Advanced PC user
 * Familiar with: HTML, CSS, JavaScript, SQL, HTTP, Git
 
-My project [momentum](https://rolling-scopes-school.github.io/aliaksandrdatskevich-JSFEPRESCHOOL2022Q4/momentum/).
+My projects: 
+* [momentum](https://rolling-scopes-school.github.io/aliaksandrdatskevich-JSFEPRESCHOOL2022Q4/momentum/)
 
 ```js
 const time = document.querySelector('.time');
