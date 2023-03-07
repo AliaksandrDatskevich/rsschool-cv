@@ -15,7 +15,7 @@
 * Advanced PC user
 * Familiar with: HTML, CSS, JavaScript, SQL, HTTP, Git
 
-My projects: 
+My projects:
 * [momentum](https://rolling-scopes-school.github.io/aliaksandrdatskevich-JSFEPRESCHOOL2022Q4/momentum/)
 
 ```js
@@ -41,9 +41,11 @@ mechanical engineer (2003-2008)
 
 ## Foreign languages
 
-* English B1
-* Polish B2
-* German A1
+* Belarusian: native
+* Russian: native
+* English: A2-B1
+* Polish: B1
+* German: A1
 
 ## Work experience
 
